@@ -1,16 +1,38 @@
-## Hi there 👋
+## 👋 Hi there, I'm Fatima Al-Amri  
 
-<!--
-**F1a23/F1a23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Software Engineer | Full-Stack Web Developer | AI & Data Science Enthusiast**  
 
-Here are some ideas to get you started:
+Welcome to my GitHub!  
+I’m passionate about building smart, user-centered web applications that combine creativity and functionality.  
+I also love crafting **interactive PowerPoint designs** and developing **UI/UX prototypes** that turn ideas into real digital experiences 💻✨  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧠 About Me  
+- 💻 Currently exploring **AI and Data Science** at Code Academy (Makin Bootcamp , Oman).  
+- 🌱 Learning more about **Python, React, Node.js, MongoDB, and Machine Learning**.  
+- 🎨 Enjoy designing **interactive slides and prototypes** that simplify learning and communication.  
+- 💬 Ask me about **front-end development, UI/UX design, or creative coding ideas**.  
+- 📍 Based in **Oman 🇴🇲**  
+
+---
+
+### 🚀 Tech Stack  
+**Languages & Tools:**  
+`HTML` | `CSS` | `JavaScript` | `React` | `Node.js` | `MongoDB` | `Python` | `Git` | `Figma` | `Canva`  
+
+---
+
+### 💡 Projects I'm Proud Of  
+- 🏥 **UTAS Clinic Management System** – a full-stack web app for booking, prescriptions, and medical tracking.  
+ 
+
+---
+
+### 🌐 Connect With Me  
+💼 [LinkedIn](https://www.linkedin.com/in/fatima-al-amri-1a2b06312)  
+💌 [Email Me](mailto:fatima5alamri8@gmail.com)  
+
+---
+
+⭐ _“Turning ideas into code and creativity into impact.”_
