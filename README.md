@@ -22,7 +22,7 @@
 
 ### ⚙️ Tech Stack  
 **Languages & Tools:**  
-`HTML` | `CSS` | `JavaScript` | `React` | `Node.js` | `MongoDB` | `Python` | `Git` | `Figma` | `Canva`
+`Bootstrap` | `JavaScript` | `React` | `Node.js` | `MongoDB` | `Python` | `Git` | `Figma` | `Canva`
 
 ---
 
