@@ -49,9 +49,6 @@
   </a>
 </p>
 
----
-
-⭐ *“Turning ideas into code and creativity into impact.”*
 
 
-⭐ _“Turning ideas into code and creativity into impact.”_
+⭐ “Turning ideas into code and creativity into impact.”
