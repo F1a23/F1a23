@@ -5,9 +5,6 @@
   <em>Software Engineer | Full-Stack Web Developer | AI & Data Science Enthusiast</em>
 </p>
 
-<p align="center">
-  <img align="right" alt="Coding girl" width="250" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
-</p>
 
 ---
 
