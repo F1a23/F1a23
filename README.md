@@ -52,18 +52,11 @@ I enjoy creating accessible, user-centered digital solutions and turning ideas i
 
 ---
 
-### 📊 Languages Used (Circular Style)
+### 📊 Languages Pie Chart
 <p align="center">
-
-  <img src="https://img.shields.io/badge/Python-40%-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=000000" />
-
-  <img src="https://img.shields.io/badge/JavaScript-35%-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=000000" />
-
-  <img src="https://img.shields.io/badge/SQL-15%-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=000000" />
-
-  <img src="https://img.shields.io/badge/React-10%-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=000000" />
-
+  <img src="https://raw.githubusercontent.com/F1a23/yourrepo/main/languages-pie.png" width="350" />
 </p>
+
 
 > *النسب تقديرية بناءً على مشاريعك الحقيقية الموجودة في الـ CV.*
 
