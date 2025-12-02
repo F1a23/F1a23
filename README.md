@@ -1,78 +1,79 @@
 <!-- HEADER -->
-<h1 align="center">✨ Fatima Said Musallam Al-Amri ✨</h1>
+<h1 align="center">👋 Hi there, I'm <strong>Fatima Al-Amri</strong></h1>
 <p align="center">
-  <em>Software Engineer • Full-Stack Developer • Data Science & AI Enthusiast</em>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Dev-brightgreen?style=flat-square" />
-  <img src="https://img.shields.io/badge/Learning-Data%20Science-blueviolet?style=flat-square" />
-  <img src="https://img.shields.io/badge/Location-Oman-ff69b4?style=flat-square" />
+  <em>Software Engineer • Full-Stack Developer • Data Science & AI Learner</em>
 </p>
 
 ---
 
-## 🌟 About Me
-
-Hi! I'm **Fatima**, a passionate software engineer who loves building clean, modern, and user-friendly digital experiences.
-
-I enjoy:
-- ✨ Creating beautiful UI/UX  
-- 🧠 Exploring AI & Data Science  
-- 🛠️ Developing full-stack web apps  
-- 🎯 Improving my skills every day  
-
----
-
-## 🧩 Tech Stack
-
-<div align="center">
-
-**Languages**  
-`Python` • `JavaScript`
-
-**Frontend**  
-`React` • `HTML` • `CSS` • `Bootstrap`
-
-**Backend**  
-`Node.js` • `Express.js`
-
-**Databases**  
-`MongoDB` • `MySQL`
-
-**Tools**  
-`Git` • `GitHub` • `VS Code` • `Jupyter Notebook`
-
-**Design**  
-`Figma` • `Canva`
-
-</div>
-
----
-
-## 📊 Skills Overview (Clean Style)
-
-| Category | Level |
-|---------|:-----:|
-| Frontend Development | ⭐⭐⭐⭐⭐ |
-| Backend APIs | ⭐⭐⭐⭐☆ |
-| Databases | ⭐⭐⭐⭐⭐|
-| Data Analysis | ⭐⭐⭐⭐⭐ |
-| UI/UX Design | ⭐⭐⭐⭐⭐ |
-
----
-
-## 🎨 Aesthetic Header Badges
-
+<!-- BADGES -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Creative-Yes-f4b0c7?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Hardworking-Always-f4d03f?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Improving-Everyday-7dcea0?style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=F1a23&style=for-the-badge&color=ff69b4" alt="Profile Views" />
 </p>
 
 ---
 
-## 🌐 Connect with Me
+## 🧰 When I code, I rely on
+
+<p align="center">
+  
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
+
+  <!-- Backend -->
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+
+  <!-- Databases -->
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+
+  <!-- Data & Tools -->
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+
+  <!-- Design -->
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" />
+
+</p>
+
+---
+
+## 🔥 My GitHub Contribution Summary
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=F1a23&theme=radical&hide_border=true" />
+</p>
+
+---
+
+## 📊 GitHub Stats (Circular Style)
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=F1a23&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=F1a23&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=F1a23&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=F1a23&theme=radical" />
+</p>
+
+---
+
+## 🌐 Connect with me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/fatima-al-amri-1a2b06312/">
@@ -88,4 +89,4 @@ I enjoy:
 
 ---
 
-<p align="center"><em>✨ Always building, always learning ✨</em></p>
+<p align="center"><em>💛 Always learning. Always building.</em></p>
