@@ -29,21 +29,12 @@
 A full-stack web application for medical appointment booking, prescriptions, medication tracking, and role-based dashboards.
 
 ---
-### 📈 GitHub Stats  
+### 📈 GitHub Stats
 
-<p align="center">
-  <!-- Main Stats -->
-  <img 
-    src="https://raw.githubusercontent.com/F1a23/github-stats-transparent/output/generated/overview.svg" 
-    width="49%"
-  />
+![Fatima's GitHub Stats](https://github-readme-stats.vercel.app/api?username=F1a23&show_icons=true&theme=default)
 
-  <!-- Top Languages -->
-  <img 
-    src="https://raw.githubusercontent.com/F1a23/github-stats-transparent/output/generated/languages.svg" 
-    width="49%"
-  />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=F1a23&layout=compact&theme=default)
+
 
 
 <p align="center">
