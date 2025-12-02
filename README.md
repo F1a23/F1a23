@@ -1,96 +1,91 @@
-<!-- Header -->
-<h2 align="center">👋 Hi, I'm <strong>Fatima Said Musallam Al-Amri</strong></h2>
-<p align="center"><em>Software Engineer | Data Science & AI Trainee | Full-Stack Developer</em></p>
+<!-- HEADER -->
+<h1 align="center">✨ Fatima Said Musallam Al-Amri ✨</h1>
+<p align="center">
+  <em>Software Engineer • Full-Stack Developer • Data Science & AI Enthusiast</em>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Dev-brightgreen?style=flat-square" />
+  <img src="https://img.shields.io/badge/Learning-Data%20Science-blueviolet?style=flat-square" />
+  <img src="https://img.shields.io/badge/Location-Oman-ff69b4?style=flat-square" />
+</p>
 
 ---
 
-### 🌟 About Me
-Passionate software engineer with strong interest in **full-stack development**, **data engineering**, and **AI**.  
-I enjoy creating accessible, user-centered digital solutions and turning ideas into impactful systems.
+## 🌟 About Me
 
-🎓 Bachelor of Software Engineering – UTAS Salalah (GPA 3.6)  
-📘 Data Science & AI Trainee – Code Academy (Makeen Bootcamp)  
-💡 Interested in building smart, scalable, and meaningful applications  
-📍 Oman  
+Hi! I'm **Fatima**, a passionate software engineer who loves building clean, modern, and user-friendly digital experiences.
+
+I enjoy:
+- ✨ Creating beautiful UI/UX  
+- 🧠 Exploring AI & Data Science  
+- 🛠️ Developing full-stack web apps  
+- 🎯 Improving my skills every day  
 
 ---
 
-### ⚙️ Skills Overview
+## 🧩 Tech Stack
 
-#### **Programming**
+<div align="center">
+
+**Languages**  
 `Python` • `JavaScript`
 
-#### **Web Development**
-`React.js` • `Node.js` • `Express.js` • `HTML` • `CSS` • `Bootstrap`
+**Frontend**  
+`React` • `HTML` • `CSS` • `Bootstrap`
 
-#### **Data & AI**
-`Pandas` • `NumPy` • `Seaborn` • `Matplotlib` • `Scikit-learn` • `ETL/ELT`
+**Backend**  
+`Node.js` • `Express.js`
 
-#### **Databases**
-`MySQL` • `MongoDB`
+**Databases**  
+`MongoDB` • `MySQL`
 
-#### **Tools**
-`Git` • `GitHub` • `VS Code` • `Jupyter Notebook` • `Render`
+**Tools**  
+`Git` • `GitHub` • `VS Code` • `Jupyter Notebook`
 
-#### **Design**
+**Design**  
 `Figma` • `Canva`
 
+</div>
+
 ---
 
-### 🏆 Achievements (Circular Badges)
+## 📊 Skills Overview (Clean Style)
+
+| Category | Level |
+|---------|:-----:|
+| Frontend Development | ⭐⭐⭐⭐⭐ |
+| Backend APIs | ⭐⭐⭐⭐☆ |
+| Databases | ⭐⭐⭐⭐⭐|
+| Data Analysis | ⭐⭐⭐⭐⭐ |
+| UI/UX Design | ⭐⭐⭐⭐⭐ |
+
+---
+
+## 🎨 Aesthetic Header Badges
+
 <p align="center">
-
-  <img src="https://img.shields.io/badge/GPA-3.6-4CAF50?style=for-the-badge&labelColor=000000" />
-
-  <img src="https://img.shields.io/badge/Projects-10+-2196F3?style=for-the-badge&labelColor=000000" />
-
-  <img src="https://img.shields.io/badge/Awards-5+-9C27B0?style=for-the-badge&labelColor=000000" />
-
-  <img src="https://img.shields.io/badge/Hackathons-2-FF9800?style=for-the-badge&labelColor=000000" />
-
+  <img src="https://img.shields.io/badge/Creative-Yes-f4b0c7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Hardworking-Always-f4d03f?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Improving-Everyday-7dcea0?style=for-the-badge" />
 </p>
 
 ---
 
-### 📊 Languages Pie Chart
-<p align="center">
-  <img src="https://raw.githubusercontent.com/F1a23/yourrepo/main/languages-pie.png" width="350" />
-</p>
+## 🌐 Connect with Me
 
-
-> *النسب تقديرية بناءً على مشاريعك الحقيقية الموجودة في الـ CV.*
-
----
-
-### 🚀 Featured Projects
-
-#### ⭐ Real-Time Weather Data Engineering System  
-ETL pipeline using **Python**, **Prefect**, and **Docker**, scheduled hourly to collect live weather data and store it in a **MySQL** database for analytics.
-
-#### ⭐ UTAS Clinic Management System  
-Full-stack healthcare platform using **React.js**, **Node.js**, **Express**, and **MongoDB**, supporting appointments, prescriptions, dashboards, and role-based access.
-
-#### ⭐ GreenBite Restaurant Database System  
-Normalized MySQL database with a complete ERD, business logic, and SQL queries modeling a restaurant workflow.
-
-#### ⭐ Screen Time & Mental Health Analytics  
-Python analysis project using Kaggle datasets to study the impact of screen time on stress and sleep.
-
----
-
-### 🌐 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/fatima-al-amri-1a2b06312/">
-    <img src="https://img.shields.io/badge/LinkedIn-Fatima_Al--Amri-blue?style=for-the-badge&logo=linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Fatima%20Al--Amri-blue?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="mailto:fatima5alamri8@gmail.com">
-    <img src="https://img.shields.io/badge/Email-fatima5alamri8%40gmail.com-D14836?style=for-the-badge&logo=gmail"/>
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail"/>
   </a>
   <a href="https://github.com/F1a23">
-    <img src="https://img.shields.io/badge/GitHub-F1a23-181717?style=for-the-badge&logo=github"/>
+    <img src="https://img.shields.io/badge/GitHub-F1a23-black?style=for-the-badge&logo=github"/>
   </a>
 </p>
 
 ---
 
-⭐ *“Turning ideas into code — and code into meaningful impact.”*
+<p align="center"><em>✨ Always building, always learning ✨</em></p>
