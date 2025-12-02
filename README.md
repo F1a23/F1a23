@@ -29,19 +29,33 @@
 A full-stack web application for medical appointment booking, prescriptions, medication tracking, and role-based dashboards.
 
 ---
-
 ### 📈 GitHub Stats  
+
 <p align="center">
+  <!-- Main Stats -->
   <img 
-    src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=F1a23&show_icons=true&theme=vue-dark&hide_border=true" 
-    width="49%" 
+    src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=F1a23&show_icons=true&theme=merko&hide_border=true&include_all_commits=true&count_private=true" 
+    alt="Fatima's GitHub stats" 
+    width="48%"
   />
 
+  <!-- Streak -->
   <img 
-    src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=F1a23&layout=compact&theme=vue-dark&hide_border=true" 
-    width="49%" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=F1a23&theme=merko&hide_border=true" 
+    alt="GitHub Streak" 
+    width="48%"
   />
 </p>
+
+<p align="center">
+  <!-- Top Languages -->
+  <img 
+    src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=F1a23&layout=compact&theme=merko&hide_border=true" 
+    alt="Top Languages" 
+    width="50%"
+  />
+</p>
+
 
 ---
 
