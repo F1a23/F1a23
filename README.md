@@ -1,37 +1,48 @@
 <!-- Header Section -->
-<h2 align="center">👋 Hi there, I'm <span style="color:#C19A6B;">Fatima Al-Amri</span> 💻</h2>
+<h2 align="center">👋 Hi there, I'm <strong>Fatima Al-Amri</strong> 💻</h2>
 
 <p align="center">
-  <em>Software Engineer | Full-Stack Web Developer | AI & Data Science Enthusiast</em>
+  <em>Software Engineer | Full-Stack Web Developer | AI & Data Science Trainee</em>
 </p>
-
 
 ---
 
 ### 🌟 About Me  
-💡 Passionate about building smart, user-centered web applications that combine creativity and functionality.  
-🎨 I enjoy designing **interactive PowerPoint slides** and **UI/UX prototypes** that turn ideas into real digital experiences.  
-📚 Currently exploring **AI and Data Science** at Code Academy (Makin Bootcamp, Oman).  
-🌱 Learning more about **Python, React, Node.js, MongoDB, and Machine Learning**.  
-📍 Based in **Oman 🇴🇲**  
+💡 Passionate about building smart, user-centered web applications that combine creativity with functionality.  
+🎨 I enjoy designing interactive PowerPoint slides and intuitive UI/UX prototypes that transform ideas into meaningful digital experiences.  
+📚 Currently training in **Data Science & AI** at Code Academy through the **Makeen Bootcamp (Oman)**.  
+🌱 Continuously learning more about **Python, React, Node.js, MongoDB, and Machine Learning**.  
+📍 Based in **Oman 🇴🇲**
 
 ---
 
 ### ⚙️ Tech Stack  
-**Languages & Tools:**  
-`Bootstrap` | `JavaScript` | `React` | `Node.js` | `MongoDB` | `Python` | `Git` | `Figma` | `Canva`
+**Frontend:** JavaScript, React, Bootstrap  
+**Backend:** Node.js  
+**Database:** MongoDB  
+**Other Tools:** Python, Git, Figma, Canva  
 
 ---
 
 ### 🚀 Featured Project  
-🏥 **UTAS Clinic Management System** – A full-stack web app for booking, prescriptions, and medical tracking.  
+🏥 **UTAS Clinic Management System**  
+A full-stack web application for medical appointment booking, prescriptions, medication tracking, and role-based dashboards.
 
 ---
 
 ### 📈 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=F1a23&show_icons=true&theme=vue-dark&hide_border=true&bg_color=0D1117&title_color=C19A6B&icon_color=C19A6B" alt="Fatima's GitHub stats" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=F1a23&layout=compact&theme=vue-dark&hide_border=true&bg_color=0D1117&title_color=C19A6B" alt="Top Languages" width="49%"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=F1a23&show_icons=true&theme=vue-dark&hide_border=true&bg_color=0D1117&title_color=C19A6B&icon_color=C19A6B" 
+    alt="Fatima's GitHub stats" 
+    width="49%"
+  />
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=F1a23&layout=compact&theme=vue-dark&hide_border=true&bg_color=0D1117&title_color=C19A6B" 
+    alt="Top Languages"
+    width="49%"
+  />
 </p>
 
 ---
@@ -41,11 +52,16 @@
   <a href="https://www.linkedin.com/in/fatima-al-amri-1a2b06312">
     <img src="https://img.shields.io/badge/LinkedIn-Fatima%20Al--Amri-blue?style=for-the-badge&logo=linkedin"/>
   </a>
+
   <a href="mailto:fatima5alamri8@gmail.com">
     <img src="https://img.shields.io/badge/Email-fatima5alamri8%40gmail.com-D14836?style=for-the-badge&logo=gmail"/>
   </a>
+
+  <a href="https://github.com/F1a23">
+    <img src="https://img.shields.io/badge/GitHub-F1a23-181717?style=for-the-badge&logo=github"/>
+  </a>
 </p>
 
-
+---
 
 ⭐ “Turning ideas into code and creativity into impact.”
