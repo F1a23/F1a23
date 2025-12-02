@@ -29,22 +29,27 @@
 A full-stack web application for medical appointment booking, prescriptions, medication tracking, and role-based dashboards.
 
 ---
-### 📈 GitHub Stats
-
-![Fatima's GitHub Stats](https://github-readme-stats.vercel.app/api?username=F1a23&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=F1a23&layout=compact&theme=default)
-
-
+### 📈 GitHub Stats (Circular Style)
 
 <p align="center">
-  <!-- Top Languages -->
-  <img 
-    src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=F1a23&layout=compact&theme=merko&hide_border=true" 
-    alt="Top Languages" 
-    width="50%"
-  />
+
+  <!-- Total Commits -->
+  <img src="https://img.shields.io/badge/Commits-71-4CAF50?style=for-the-badge&logo=github&logoColor=white&labelColor=181717&color=4CAF50" />
+
+  <!-- Stars -->
+  <img src="https://img.shields.io/badge/Stars-1-FFC107?style=for-the-badge&logo=starship&logoColor=white&labelColor=181717&color=FFC107" />
+
+  <!-- PRs -->
+  <img src="https://img.shields.io/badge/PRs-0-03A9F4?style=for-the-badge&logo=git&logoColor=white&labelColor=181717&color=03A9F4" />
+
+  <!-- Issues -->
+  <img src="https://img.shields.io/badge/Issues-0-E91E63?style=for-the-badge&logo=issue-tracking&logoColor=white&labelColor=181717&color=E91E63" />
+
+  <!-- Contributions -->
+  <img src="https://img.shields.io/badge/Contributions-1-9C27B0?style=for-the-badge&logo=github&logoColor=white&labelColor=181717&color=9C27B0" />
+
 </p>
+
 
 
 ---
