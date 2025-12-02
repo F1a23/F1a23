@@ -1,68 +1,98 @@
-<!-- Header Section -->
-<h2 align="center">👋 Hi there, I'm <strong>Fatima Al-Amri</strong> 💻</h2>
+<!-- Header -->
+<h2 align="center">👋 Hi, I'm <strong>Fatima Said Musallam Al-Amri</strong></h2>
+<p align="center"><em>Software Engineer | Data Science & AI Trainee | Full-Stack Developer</em></p>
 
+---
+
+### 🌟 About Me
+Passionate software engineer with strong interest in **full-stack development**, **data engineering**, and **AI**.  
+I enjoy creating accessible, user-centered digital solutions and turning ideas into impactful systems.
+
+🎓 Bachelor of Software Engineering – UTAS Salalah (GPA 3.6)  
+📘 Data Science & AI Trainee – Code Academy (Makeen Bootcamp)  
+💡 Interested in building smart, scalable, and meaningful applications  
+📍 Oman  
+
+---
+
+### ⚙️ Skills Overview
+
+#### **Programming**
+`Python` • `JavaScript`
+
+#### **Web Development**
+`React.js` • `Node.js` • `Express.js` • `HTML` • `CSS` • `Bootstrap`
+
+#### **Data & AI**
+`Pandas` • `NumPy` • `Seaborn` • `Matplotlib` • `Scikit-learn` • `ETL/ELT`
+
+#### **Databases**
+`MySQL` • `MongoDB`
+
+#### **Tools**
+`Git` • `GitHub` • `VS Code` • `Jupyter Notebook` • `Render`
+
+#### **Design**
+`Figma` • `Canva`
+
+---
+
+### 🏆 Achievements (Circular Badges)
 <p align="center">
-  <em>Software Engineer | Full-Stack Web Developer | AI & Data Science Trainee</em>
+
+  <img src="https://img.shields.io/badge/GPA-3.6-4CAF50?style=for-the-badge&labelColor=000000" />
+
+  <img src="https://img.shields.io/badge/Projects-10+-2196F3?style=for-the-badge&labelColor=000000" />
+
+  <img src="https://img.shields.io/badge/Awards-5+-9C27B0?style=for-the-badge&labelColor=000000" />
+
+  <img src="https://img.shields.io/badge/Hackathons-2-FF9800?style=for-the-badge&labelColor=000000" />
+
 </p>
 
 ---
 
-### 🌟 About Me  
-💡 Passionate about building smart, user-centered web applications that combine creativity with functionality.  
-🎨 I enjoy designing interactive PowerPoint slides and intuitive UI/UX prototypes that transform ideas into meaningful digital experiences.  
-📚 Currently training in **Data Science & AI** at Code Academy through the **Makeen Bootcamp (Oman)**.  
-🌱 Continuously learning more about **Python, React, Node.js, MongoDB, and Machine Learning**.  
-📍 Based in **Oman 🇴🇲**
-
----
-
-### ⚙️ Tech Stack  
-**Frontend:** JavaScript, React, Bootstrap  
-**Backend:** Node.js  
-**Database:** MongoDB  
-**Other Tools:** Python, Git, Figma, Canva  
-
----
-
-### 🚀 Featured Project  
-🏥 **UTAS Clinic Management System**  
-A full-stack web application for medical appointment booking, prescriptions, medication tracking, and role-based dashboards.
-
----
-### 🏆 GitHub Achievements
+### 📊 Languages Used (Circular Style)
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=F1a23&theme=onedark&no-frame=true&column=4" />
+
+  <img src="https://img.shields.io/badge/Python-40%-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=000000" />
+
+  <img src="https://img.shields.io/badge/JavaScript-35%-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=000000" />
+
+  <img src="https://img.shields.io/badge/SQL-15%-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=000000" />
+
+  <img src="https://img.shields.io/badge/React-10%-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=000000" />
+
 </p>
 
----
-
-### 📊 Most Used Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=F1a23&layout=compact&theme=tokyonight&hide_border=true" width="55%" />
-</p>
+> *النسب تقديرية بناءً على مشاريعك الحقيقية الموجودة في الـ CV.*
 
 ---
 
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=F1a23&show_icons=true&theme=tokyonight&hide_border=true" width="60%" />
-</p>
+### 🚀 Featured Projects
 
+#### ⭐ Real-Time Weather Data Engineering System  
+ETL pipeline using **Python**, **Prefect**, and **Docker**, scheduled hourly to collect live weather data and store it in a **MySQL** database for analytics.
 
+#### ⭐ UTAS Clinic Management System  
+Full-stack healthcare platform using **React.js**, **Node.js**, **Express**, and **MongoDB**, supporting appointments, prescriptions, dashboards, and role-based access.
 
+#### ⭐ GreenBite Restaurant Database System  
+Normalized MySQL database with a complete ERD, business logic, and SQL queries modeling a restaurant workflow.
+
+#### ⭐ Screen Time & Mental Health Analytics  
+Python analysis project using Kaggle datasets to study the impact of screen time on stress and sleep.
 
 ---
 
-### 🌐 Connect With Me  
+### 🌐 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/fatima-al-amri-1a2b06312">
-    <img src="https://img.shields.io/badge/LinkedIn-Fatima%20Al--Amri-blue?style=for-the-badge&logo=linkedin"/>
+  <a href="https://www.linkedin.com/in/fatima-al-amri-1a2b06312/">
+    <img src="https://img.shields.io/badge/LinkedIn-Fatima_Al--Amri-blue?style=for-the-badge&logo=linkedin"/>
   </a>
-
   <a href="mailto:fatima5alamri8@gmail.com">
     <img src="https://img.shields.io/badge/Email-fatima5alamri8%40gmail.com-D14836?style=for-the-badge&logo=gmail"/>
   </a>
-
   <a href="https://github.com/F1a23">
     <img src="https://img.shields.io/badge/GitHub-F1a23-181717?style=for-the-badge&logo=github"/>
   </a>
@@ -70,4 +100,4 @@ A full-stack web application for medical appointment booking, prescriptions, med
 
 ---
 
-⭐ “Turning ideas into code and creativity into impact.”
+⭐ *“Turning ideas into code — and code into meaningful impact.”*
