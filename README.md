@@ -29,26 +29,25 @@
 A full-stack web application for medical appointment booking, prescriptions, medication tracking, and role-based dashboards.
 
 ---
-### 📈 GitHub Stats (Circular Style)
-
+### 🏆 GitHub Achievements
 <p align="center">
-
-  <!-- Total Commits -->
-  <img src="https://img.shields.io/badge/Commits-71-4CAF50?style=for-the-badge&logo=github&logoColor=white&labelColor=181717&color=4CAF50" />
-
-  <!-- Stars -->
-  <img src="https://img.shields.io/badge/Stars-1-FFC107?style=for-the-badge&logo=starship&logoColor=white&labelColor=181717&color=FFC107" />
-
-  <!-- PRs -->
-  <img src="https://img.shields.io/badge/PRs-0-03A9F4?style=for-the-badge&logo=git&logoColor=white&labelColor=181717&color=03A9F4" />
-
-  <!-- Issues -->
-  <img src="https://img.shields.io/badge/Issues-0-E91E63?style=for-the-badge&logo=issue-tracking&logoColor=white&labelColor=181717&color=E91E63" />
-
-  <!-- Contributions -->
-  <img src="https://img.shields.io/badge/Contributions-1-9C27B0?style=for-the-badge&logo=github&logoColor=white&labelColor=181717&color=9C27B0" />
-
+  <img src="https://github-profile-trophy.vercel.app/?username=F1a23&theme=onedark&no-frame=true&column=4" />
 </p>
+
+---
+
+### 📊 Most Used Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=F1a23&layout=compact&theme=tokyonight&hide_border=true" width="55%" />
+</p>
+
+---
+
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=F1a23&show_icons=true&theme=tokyonight&hide_border=true" width="60%" />
+</p>
+
 
 
 
