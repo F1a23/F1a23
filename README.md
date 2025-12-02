@@ -25,9 +25,10 @@
 
 ## 🌟 About Me
 
-I'm passionate about building digital experiences that blend creativity with technology.  
-I enjoy turning ideas into user-friendly interfaces, smart backend systems, and data-driven solutions.  
-Always learning, always experimenting, always improving. ✨  
+I'm a Software Engineer with a growing passion for Data Science and Artificial Intelligence.  
+I enjoy creating user-centered digital experiences, building clean and efficient backend systems,  
+and exploring how data can shape smarter, more meaningful solutions.  
+Always learning, always improving, always building. ✨ 
 
 ---
 
@@ -72,11 +73,12 @@ Always learning, always experimenting, always improving. ✨
 
 ## 📚 Frameworks & Focus Areas
 
-- **Frameworks & Libraries:** React.js, Node.js, Express, Bootstrap  
-- **Data & Analytics:** Python (Pandas, NumPy, Matplotlib, Seaborn)  
+- **Frameworks & Libraries:** React.js, Node.js, Express.js, Bootstrap  
+- **Data Science & AI:** Python (Pandas, NumPy, Matplotlib, Seaborn), data preprocessing, ETL pipelines, basic machine learning  
 - **Databases:** MySQL, MongoDB  
 - **Design Tools:** Figma, Canva  
-- **Focus Areas:** Full-stack web apps · Data-driven solutions · Accessible & educational systems  
+- **Focus Areas:** Full-stack development · Data Science & AI workflows 
+ 
 
 ---
 
