@@ -33,15 +33,13 @@ A full-stack web application for medical appointment booking, prescriptions, med
 ### 📈 GitHub Stats  
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=F1a23&show_icons=true&theme=vue-dark&hide_border=true&bg_color=0D1117&title_color=C19A6B&icon_color=C19A6B" 
-    alt="Fatima's GitHub stats" 
-    width="49%"
+    src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=F1a23&show_icons=true&theme=vue-dark&hide_border=true" 
+    width="49%" 
   />
 
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=F1a23&layout=compact&theme=vue-dark&hide_border=true&bg_color=0D1117&title_color=C19A6B" 
-    alt="Top Languages"
-    width="49%"
+    src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=F1a23&layout=compact&theme=vue-dark&hide_border=true" 
+    width="49%" 
   />
 </p>
 
